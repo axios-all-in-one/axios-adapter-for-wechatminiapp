@@ -1,0 +1,30 @@
+{
+  "name": "axios-adapter-for-wechatminiapp",
+  "version": "1.0.0",
+  "description": "Promise based HTTP client for the wechat miniapp.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axios-all-in-one/axios-adapter-for-wechatminiapp.git"
+  },
+  "keywords": [
+    "http",
+    "promise",
+    "wechat",
+    "miniapp"
+  ],
+  "author": "htoooth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axios-all-in-one/axios-adapter-for-wechatminiapp/issues"
+  },
+  "homepage": "https://github.com/axios-all-in-one/axios-adapter-for-wechatminiapp#readme"
+}
